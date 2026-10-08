@@ -1,0 +1,9 @@
+{
+    "nombres": "Pedro",
+    "apellidos": "Lopez",
+    "cedula": "0934567890",
+    "email": "pedro.lopez@gmail.com",
+    "telefono": "0991112222",
+    "direccion": "Guayaquil",
+    "activo": true
+}
